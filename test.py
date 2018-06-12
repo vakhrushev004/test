@@ -8,3 +8,4 @@ def print_palmtrees(sum):
 	for i in range(num):
 		sys.stdout.write('   |  ')
 	sys.stdout.write('\n\n')
+	print("super awesome change")
